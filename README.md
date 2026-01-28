@@ -40,5 +40,7 @@ Add the following configuration to your claude_desktop_config.json file:
 - Fill the details for the new employee:
 
 <img src="Resources\image.jpg" alt="Claude desktop prompt with fields" style="width:auto;height:300px;padding-left:30px">
+<img width="849" height="1112" alt="image" src="https://github.com/user-attachments/assets/56c80ae8-9615-44f3-ac30-b55d4e00606c" />
+
 
 Alternatively, you can draft a custom prompt and let the agent take over.
